@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lF | grep /r/n
+ls -lv /r/n
