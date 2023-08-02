@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --group-directories-first\r\n
+ls -lF | grep /r/n
